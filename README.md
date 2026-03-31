@@ -1,4 +1,11 @@
-## Hi there 👋
+Hi, I'm Anubhav👋
+
+🎓 B.Tech Student at VIT Bhopal University  
+💻 Computer Science and Engineering (Artificial Intelligence & Machine Learning)  
+📅 First Year  
+
+🌱 I am currently learning programming and exploring new technologies.  
+💡 Interested in problem-solving and building real-world skills.
 
 <!--
 **anubhavraghuwanshi428-droid/anubhavraghuwanshi428-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
